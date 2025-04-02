@@ -36,8 +36,8 @@ KinderLingo is a digital product store that uses AI + Canva to create printable 
 
 ## 📸 Previews
 
-![sample1](Untitled (2970 x 2100 px)-2.png)
-![sample2](https://your-image-link.com)
+![sample1]([Untitled (2970 x 2100 px)-2.png](https://github.com/karimalyst/kinderlingo-store/blob/main/Untitled%20(2970%20x%202100%20px)-2.png)
+![sample2]([https://your-image-link.com](https://github.com/karimalyst/kinderlingo-store/edit/main/README.md#:~:text=2970%20x%202100-,px,-).png)
 
 *Want help uploading images to this repo? Just let me know!*
 

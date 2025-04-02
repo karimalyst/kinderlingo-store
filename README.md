@@ -36,7 +36,7 @@ KinderLingo is a digital product store that uses AI + Canva to create printable 
 
 ## 📸 Previews
 
-![sample1](https://your-image-link.com)
+![sample1](Untitled (2970 x 2100 px)-2.png)
 ![sample2](https://your-image-link.com)
 
 *Want help uploading images to this repo? Just let me know!*
